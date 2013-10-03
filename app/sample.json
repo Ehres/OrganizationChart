@@ -1,0 +1,54 @@
+{
+  "stc_company": "STOIC",
+  "stc_employees": [
+    {
+      "stc_name": "Ismael Ghalimi",
+      "stc_identifier": "ismael",
+      "stc_picture": "http://www.gravatar.com/avatar/a33dab7034e1fced4adb648f46eabe5d?d=identicon&s=64",
+      "stc_role": "Chief executive officer",
+      "stc_parent": null
+    },
+    {
+      "stc_name": "Jacques-Alexandre Gerber",
+      "stc_identifier": "jag",
+      "stc_picture": "http://www.gravatar.com/avatar/6a6e26e2ba226b66e9fa74d652fa37e8?d=identicon&s=64",
+      "stc_role": "Chief financial officer",
+      "stc_parent": "ismael"
+    },
+    {
+      "stc_name": "Pascal Belloncle",
+      "stc_identifier": "psq",
+      "stc_picture": "http://www.gravatar.com/avatar/208b9d061b14c7e819ed2f03ba93780e?d=identicon&s=64",
+      "stc_role": "Chief technology officer",
+      "stc_parent": "ismael"
+    },
+    {
+      "stc_name": "Hugues Malphettes",
+      "stc_identifier": "hugues",
+      "stc_picture": "http://www.gravatar.com/avatar/5f1f4b0d2440d947efb26778f01e9af6?d=identicon&s=64",
+      "stc_role": "Back-end developer",
+      "stc_parent": "psq"
+    },
+    {
+      "stc_name": "Jim Alateras",
+      "stc_identifier": "jim",
+      "stc_picture": "http://www.gravatar.com/avatar/3d508d960d5f63a9d9384baf6b4f67c3?d=identicon&s=64",
+      "stc_role": "Back-end developer",
+      "stc_parent": "psq"
+    },
+    {
+      "stc_name": "Florian Ribon",
+      "stc_identifier": "floribon",
+      "stc_picture": "http://www.gravatar.com/avatar/c8dea32e0d638bbf18f9d87318df326c?d=identicon&s=64",
+      "stc_role": "Front-end developer (intern)",
+      "stc_parent": "ismael"
+    },
+    {
+      "stc_name": "Francois Beaufils",
+      "stc_identifier": "francois",
+      "stc_picture": "http://www.gravatar.com/avatar/ac21f579f4566e26d85988209080b031?d=identicon&s=64",
+      "stc_role": "Front-end developer",
+      "stc_parent": "ismael"
+    }
+  ]
+}
